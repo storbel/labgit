@@ -1,6 +1,8 @@
-network: 123.12.12.1
+network: 123.12.12.14
 
 
 
 group: 1
 grou: Blue
+
+option3:Red
